@@ -1,2 +1,2 @@
 # User-NameAgeDisplay
-Simple app to display created usernames and the age of user created users
+Simple app to display usernames and the ages of user created users
